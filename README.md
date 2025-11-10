@@ -7,7 +7,7 @@
 
 ---
 ## Progetto: AC-DC Compiler
-
+---
 ## Descrizione del Progetto
 
 AC-DC Compiler è un compilatore per un linguaggio didattico. Il progetto è suddiviso nelle classiche fasi della compilazione: analisi lessicale, analisi sintattica, generazione dell'albero sintattico astratto (AST), gestione della tabella dei simboli e analisi semantica tramite pattern visitor.
