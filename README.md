@@ -3,7 +3,8 @@
 ## Università del Piemonte Orientale - Corso di Laurea in Informatica 
 (A.A. 2024/2025)
 
-##MF0360 - FONDAMENTI, LINGUAGGI E TRADUTTORI
+## MF0360 - FONDAMENTI, LINGUAGGI E TRADUTTORI
+
 ---
 ## Progetto: AC-DC Compiler
 
